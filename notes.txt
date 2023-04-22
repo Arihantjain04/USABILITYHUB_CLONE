@@ -1,0 +1,25 @@
+use font awesome website to access icons
+
+use a font for heading(poppins) and one font for body(roboto)
+
+use extension css peeper to get imgs
+
+good practices for starting :
+always * m0+p0 + box-sizing : border-box;
+define colors in root elements
+define headings and body, a, ul, paragraphs
+
+then define all html sections
+
+use the fact that diiferent elements have multiple classes
+a basic class and a specific class
+
+ul>li*6>a
+
+justify content : end se right side mein hi rhenge
+flex basis se width define hoga
+
+
+hoverables ko anchor tag mein daalna chahiye
+
+main reference ko relative set kro aur phir secondary cheezo ko absolute set krke arrange akr
